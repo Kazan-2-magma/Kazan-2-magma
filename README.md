@@ -1,16 +1,45 @@
-# ✨ Hi, I'm YASSINE IDLHAJ 👋  
-I'm a **full-stack developer** who crafts mobile and web apps with 💙 Flutter, Laravel, and more.
+# 👋 Hey, I’m YASSINE IDLHAJ
 
-### 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+I'm a full-stack developer who builds **mobile** and **web apps** using modern tools and frameworks.  
+Shipping code that runs *fast*, scales well, and actually solves problems is what I do.
 
+---
 
-### 🚀 Featured Projects
-- 🔐 [Authenticator App](https://github.com/yassine-idlhaj/authenticator_application) — 2FA with Flutter 🔥
-- 🌐 [My Laravel/Angular Starter](https://github.com/yassine-idlhaj/web-starter) — Clean boilerplate for web apps
+## 🛠️ Tech Stack
+
+### 💻 Web
+- **Backend:** Laravel · Spring Boot · Node.js (basic)  
+- **Frontend:** Angular · Next.js · Tailwind · Blade  
+- **Auth & APIs:** REST · OAuth2 · Firebase Auth
+
+### 📱 Mobile
+- **Cross-platform:** Flutter (Dart)  
+- **Native:** Kotlin · Java (Android)
+
+### 🧠 Databases
+- **Relational:** MySQL · PostgreSQL · SQLite · Oracle  
+- **NoSQL:** Firestore  
+
+### 🐧 DevOps & Deployment
+- Fedora Linux power user 💻  
+- Deploy apps on VPS with Docker, Nginx, Certbot (SSL), PostgreSQL/MySQL  
+- Configure and manage remote servers, PHPMyAdmin, pgAdmin, and CLI tools
+
+---
+
+## 🚀 What I Build
+
+- 🔐 Authenticator apps, dashboards, CMSs, and REST APIs  
+- 📱 Mobile apps that feel native using Flutter  
+- 🧩 Full-stack apps with real-world use cases  
+- 🎯 Efficient deployments on Linux servers and VPS boxes
+
+---
+
+## 📬 Let’s Connect
+
+I'm always down to collaborate or work on meaningful projects.  
+DM me on [GitHub](https://github.com/Kazan-2-magma) or shoot me a message on [LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/yassine-idlhaj-9aaab119a/)
+
+---
+
