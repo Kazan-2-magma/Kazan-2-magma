@@ -1,8 +1,11 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+YASSINE IDLHAJ+%F0%9F%91%8B;Full-stack+Web+%2B+Mobile+Developer;Flutter%2C+Laravel%2C+Next.js%2C+Linux+%2B+DevOps;I+deploy+on+VPS+like+it's+nothing" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+YASSINE+IDLHAJ+%F0%9F%91%8B;Full-stack+Web+%2B+Mobile+Developer;Flutter%2C+Laravel%2C+Next.js%2C+Linux+%2B+DevOps;I+deploy+on+VPS+like+it's+nothing" alt="Typing animation" />
 </p>
-
+<ﻻق<br/>
+**<ﻻ>
+<br/>
+<br/>
 ---
 
 <h3 align="center">⚡ Crafting Beautiful, Scalable, and Fast Apps for Web & Mobile ⚡</h3>
