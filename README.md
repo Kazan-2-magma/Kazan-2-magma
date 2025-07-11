@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazan-2-magma&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
