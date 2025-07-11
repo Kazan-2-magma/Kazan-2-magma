@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Ganymede+%F0%9F%91%8B;Full-stack+Web+%2B+Mobile+Developer;Flutter%2C+Laravel%2C+Next.js%2C+Linux+%2B+DevOps;I+deploy+on+VPS+like+it's+nothing" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+YASSINE IDLHAJ+%F0%9F%91%8B;Full-stack+Web+%2B+Mobile+Developer;Flutter%2C+Laravel%2C+Next.js%2C+Linux+%2B+DevOps;I+deploy+on+VPS+like+it's+nothing" alt="Typing animation" />
 </p>
 
 ---
@@ -13,41 +13,9 @@
 
 ---
 
-## 🚀 Tech Arsenal
+🚀 Tech Arsenal
+<p align="center"> <!-- Mobile --> <img src="https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter&logoColor=blue&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Dart-000?style=flat&logo=dart&logoColor=0175C2&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin&logoColor=7F52FF&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Java-000?style=flat&logo=java&logoColor=ED8B00&labelColor=black" height="40"/> </p> <p align="center"> <!-- Web --> <img src="https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel&logoColor=F55247&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=ffffff&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Angular-000?style=flat&logo=angular&logoColor=dd0031&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Spring%20Boot-000?style=flat&logo=springboot&logoColor=6DB33F&labelColor=black" height="40"/> </p> <p align="center"> <!-- Databases --> <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=005C84&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=336791&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-SQLite-000?style=flat&logo=sqlite&logoColor=003B57&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Oracle-000?style=flat&logo=oracle&logoColor=F80000&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase&logoColor=FFCA28&labelColor=black" height="40"/> </p> <p align="center"> <!-- DevOps / Tools --> <img src="https://img.shields.io/badge/-Fedora-000?style=flat&logo=fedora&logoColor=294172&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=2496ED&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032&labelColor=black" height="40"/> <img src="https://img.shields.io/badge/-VPS-000?style=flat&logo=cloud&logoColor=white&labelColor=black" height="40"/> </p>
 
-### 📱 Mobile Dev
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### 🌐 Web Dev
-<p>
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-</p>
-
-### 🧠 Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### 🐧 DevOps / Tools
-<p>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPS-0078D7?style=for-the-badge&logo=server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
 
 ---
 
