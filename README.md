@@ -183,18 +183,6 @@ Automated deployment pipeline including:
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```javascript
-const yassine = {
-    currentlyLearning: ["Advanced Flutter Animations", "Microservices Architecture"],
-    workingOn: ["Personal Portfolio", "Open Source Contributions"],
-    askMeAbout: ["Flutter", "Laravel", "Next.js", "DevOps", "Linux"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
 
 </div>
 
