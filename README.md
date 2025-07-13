@@ -2,7 +2,7 @@
   
 # 🌟 Welcome to My Digital Universe 🌟
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey%2C+I'm+YASSINE+IDLHAJ+%F0%9F%91%8B;Full-stack+Web+%2B+Mobile+Developer;Flutter%2C+Laravel%2C+Next.js%2C+Linux+%2B+DevOps;Building+the+Future%2C+One+App+at+a+Time" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=800&height=250&lines=Hey%2C+I'm+YASSINE+IDLHAJ+%F0%9F%91%8B;Full-stack+Web+%2B+Mobile+Developer;Flutter%2C+Laravel%2C+Next.js%2C+Linux+%2B+DevOps;Building+the+Future%2C+One+App+at+a+Time" alt="Typing animation" />
 
 <br/>
 <br/>
