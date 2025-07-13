@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 
 </div>
 
@@ -104,7 +104,7 @@ An all-in-one solution for restaurants to streamline supply orders and inventory
 
 Tech Stack: Flutter, Dart, Firebase, Laravel, REST API
 
-<img src="https://github.com/Kazan-2-magma/RS-Business-App/blob/fdc613bdc382ef7a3942893d36aa29e481957dc2/app_logo_1.png" width="100%" />
+<img src="https://github.com/Kazan-2-magma/RS-Business-App/blob/fdc613bdc382ef7a3942893d36aa29e481957dc2/app_logo_1.png" width="60%" />
 <p align="center">
   📁 <a href="https://github.com/Kazan-2-magma/RS-Business-App">🔗 RS Business GitHub Repository</a>
 </p>
