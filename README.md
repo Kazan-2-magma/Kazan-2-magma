@@ -105,7 +105,9 @@ An all-in-one solution for restaurants to streamline supply orders and inventory
 Tech Stack: Flutter, Dart, Firebase, Laravel, REST API
 
 <img src="https://via.placeholder.com/400x250/222222/ffffff?text=RS+Business+App+Screenshot" width="100%" />
-🔗 Live Demo | 📁 [🔗 RS Business GitHub Repository](https://github.com/Kazan-2-magma/RS-Business-App)
+<p align="center">
+  📁 <a href="https://github.com/Kazan-2-magma/RS-Business-App">🔗 RS Business GitHub Repository</a>
+</p>
 
 
 
