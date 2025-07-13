@@ -88,79 +88,31 @@
 <tr>
 <td width="50%">
 
-### 📱 [Project Name 1]
-**Flutter Mobile App**
+### 📱🧾  [RS Business]
 
-A comprehensive mobile application built with Flutter featuring:
-- 🎨 Custom UI/UX design
-- 📊 Real-time data synchronization
-- 🔐 Secure authentication
-- 📱 Cross-platform compatibility
+Flutter Mobile App for Restaurant Supply Management
 
-**Tech Stack:** Flutter, Dart, Firebase, REST API
+An all-in-one solution for restaurants to streamline supply orders and inventory:
 
-<img src="https://via.placeholder.com/400x250/0099ff/ffffff?text=Project+Screenshot" width="100%" />
+🛒 Smart supplier ordering via chat (Email, WhatsApp, SMS)
 
-[🔗 Live Demo](your-demo-link) | [📁 Repository](your-repo-link)
+📦 Real-time inventory & stock tracking
 
-</td>
-<td width="50%">
+💰 Marketplace with price comparison & deals
 
-### 🌐 [Project Name 2]
-**Laravel Web Application**
+📈 Insights to optimize operations
 
-A robust web application showcasing:
-- 🏗️ Clean architecture pattern
-- 🔒 Advanced authentication system
-- 📊 Dynamic dashboard
-- 🚀 RESTful API integration
+Tech Stack: Flutter, Dart, Firebase, Laravel, REST API
 
-**Tech Stack:** Laravel, PHP, MySQL, Vue.js
+<img src="https://via.placeholder.com/400x250/222222/ffffff?text=RS+Business+App+Screenshot" width="100%" />
+🔗 Live Demo | 📁 Repository
 
-<img src="https://via.placeholder.com/400x250/ff6b6b/ffffff?text=Project+Screenshot" width="100%" />
 
-[🔗 Live Demo](your-demo-link) | [📁 Repository](your-repo-link)
 
 </td>
+
 </tr>
-<tr>
-<td width="50%">
 
-### ⚡ [Project Name 3]
-**Next.js Full-Stack App**
-
-Modern web application featuring:
-- 🎭 Server-side rendering
-- 🎨 Responsive design
-- 📊 Real-time updates
-- 🔍 SEO optimized
-
-**Tech Stack:** Next.js, React, Node.js, PostgreSQL
-
-<img src="https://via.placeholder.com/400x250/4ecdc4/ffffff?text=Project+Screenshot" width="100%" />
-
-[🔗 Live Demo](your-demo-link) | [📁 Repository](your-repo-link)
-
-</td>
-<td width="50%">
-
-### 🛠️ [Project Name 4]
-**DevOps & Deployment**
-
-Automated deployment pipeline including:
-- 🐳 Docker containerization
-- 🌐 Nginx configuration
-- 🔒 SSL certificate automation
-- 📊 Monitoring & logging
-
-**Tech Stack:** Docker, Nginx, Linux, Bash, Certbot
-
-<img src="https://via.placeholder.com/400x250/95a5a6/ffffff?text=Project+Screenshot" width="100%" />
-
-[🔗 Live Demo](your-demo-link) | [📁 Repository](your-repo-link)
-
-</td>
-</tr>
 </table>
 
 ---
