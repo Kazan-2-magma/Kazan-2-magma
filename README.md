@@ -19,7 +19,6 @@
 
 ## ⚡ Crafting Beautiful, Scalable, and Fast Apps for Web & Mobile ⚡
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
