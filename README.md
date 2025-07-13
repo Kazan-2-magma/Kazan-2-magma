@@ -4,6 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey%2C+I'm+YASSINE+IDLHAJ+%F0%9F%91%8B;Full-stack+Web+%2B+Mobile+Developer;Flutter%2C+Laravel%2C+Next.js%2C+Linux+%2B+DevOps;Building+the+Future%2C+One+App+at+a+Time" alt="Typing animation" />
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 
 </div>
