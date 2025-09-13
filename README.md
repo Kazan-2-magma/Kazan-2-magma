@@ -40,13 +40,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="70" title="Laravel" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="70" title="Next.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="70" title="Angular" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70" title="Spring" />
 
 ### 🗄️ Database & Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="70" title="PostgreSQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="70" title="SQLite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="70" title="Oracle" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="70" title="Firebase" />
 
 ### ⚙️ DevOps & Tools
@@ -106,6 +104,31 @@ Tech Stack: Flutter, Dart, Firebase, Laravel, REST API
 <img src="https://github.com/Kazan-2-magma/RS-Business-App/blob/fdc613bdc382ef7a3942893d36aa29e481957dc2/app_logo_1.png" width="15%" />
 <p align="center">
   📁 <a href="https://github.com/Kazan-2-magma/RS-Business-App">🔗 RS Business GitHub Repository</a>
+</p>
+
+
+
+</td>
+
+<td width="50%">
+
+###  🖥️📱 Remote Mouse & Keyboard Controller
+
+Flutter Mobile App for Control Human Interface Devices like mouse and keyboard with Go
+
+
+🖱️ Mouse Control
+
+⌨️ Keyboard Control
+
+💰 Marketplace with price comparison & deals
+
+📈 Insights to optimize operations
+
+Tech Stack: Flutter, Dart, Firebase, Laravel, REST API
+
+<p align="center">
+  📁 <a href="https://github.com/Kazan-2-magma/remote_device">🔗 Remote Device GitHub Repository</a>
 </p>
 
 
