@@ -105,14 +105,10 @@ Tech Stack: Flutter, Dart, Firebase, Laravel, REST API
 <p align="center">
   📁 <a href="https://github.com/Kazan-2-magma/RS-Business-App">🔗 RS Business GitHub Repository</a>
 </p>
-
-
-
 </td>
-
 <td width="50%">
 
-###  🖥️📱 Remote Mouse & Keyboard Controller
+###  🖥️📱 [Remote Mouse & Keyboard Controller]
 
 Flutter Mobile App for Control Human Interface Devices like mouse and keyboard with Go
 
