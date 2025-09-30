@@ -121,7 +121,7 @@ Flutter Mobile App for Control Human Interface Devices like mouse and keyboard w
 
 📈 Insights to optimize operations
 
-Tech Stack: Flutter, Dart, Firebase, Laravel, REST API
+Tech Stack: Flutter, Go, Streams, REST API
 
 <p align="center">
   📁 <a href="https://github.com/Kazan-2-magma/remote_device">🔗 Remote Device GitHub Repository</a>
