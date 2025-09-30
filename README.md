@@ -1,10 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">I'm Yassine IDLHAJ, a Software Developer.</h1>
 
 ###
 
-<p align="left">I'm Yassine IDLHAJ, a Software Developer.</p>
-
-###
 
 <h2 align="left">About me</h2>
 
